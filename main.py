@@ -7,7 +7,7 @@ authorisation = {
     "password": "testing-ice-cream-api",
     "endpoint": "https://saffaicecream.co.za/login.php",
     "authorization": {
-        "admin": true,
-        "superuser": true
+        "admin": True,
+        "superuser": True
     }
 }
